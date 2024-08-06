@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather and Map Application</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>WEATHER FORECAST</h1>
+    <div class="container">
+        
+        <div class="search-bar">
+            <input type="text" id="city-input" placeholder="Enter city name"><br>
+
+            <button id="search-button">Get Weather</button>
+        </div>
+        <div class="content">
+            <div class="weather-info" id="weather-details">
+                <!-- Weather details will be injected here -->
+            </div>
+            <div class="map-container">
+                <iframe
+                    id="gmap_canvas"
+                    width="600"
+                    height="500"
+                    frameborder="0"
+                    scrolling="no"
+                    marginheight="0"
+                    marginwidth="0"
+                    src=""
+                    allowfullscreen>
+                </iframe>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
