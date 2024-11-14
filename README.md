@@ -1,3 +1,5 @@
+![Screenshot 2024-11-14 210054](https://github.com/user-attachments/assets/2e6db0d5-f1ed-45fe-9dd7-ea20620c4353)
+
 
 
 ### Welcome to Weather Watch 🌦️ – Your Reliable Companion for Accurate, Real-Time Weather Updates
